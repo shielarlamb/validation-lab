@@ -4,4 +4,4 @@ Validation is very important and will help you identify errors in your work. All
 
 Information on HTML Validation is found in your textbook.
 
-Please use the [W3C HTML Validator](https://validator.w3.org/) to validate your files.  This is what will be used when grading assignments.
+Please use the [W3C HTML Validator](https://html5.validator.nu/) to validate your files.  This is what will be used when grading assignments.
